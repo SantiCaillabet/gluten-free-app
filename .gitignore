@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.sqlite
+backend/uploads/restaurants/*
+backend/uploads/recipes/*
+!backend/uploads/restaurants/.gitkeep
+!backend/uploads/recipes/.gitkeep
+dist/
+.DS_Store
